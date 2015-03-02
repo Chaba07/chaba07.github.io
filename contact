@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
   <body>
-  <h1></h1>
-
+  <h2> Contact Information </h2>
+    <p> My Email </p>
+    <p> My phone </p>
+    <p> My Twitter </p>
+ 
+  </body>
 </html>
